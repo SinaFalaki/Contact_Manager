@@ -1,0 +1,15 @@
+D:\_MY C# PROJECT\MyContact\bin\Debug\net6.0\MyContact.exe
+D:\_MY C# PROJECT\MyContact\bin\Debug\net6.0\MyContact.deps.json
+D:\_MY C# PROJECT\MyContact\bin\Debug\net6.0\MyContact.runtimeconfig.json
+D:\_MY C# PROJECT\MyContact\bin\Debug\net6.0\MyContact.dll
+D:\_MY C# PROJECT\MyContact\bin\Debug\net6.0\MyContact.pdb
+D:\_MY C# PROJECT\MyContact\obj\Debug\net6.0\MyContact.csproj.AssemblyReference.cache
+D:\_MY C# PROJECT\MyContact\obj\Debug\net6.0\MyContact.GeneratedMSBuildEditorConfig.editorconfig
+D:\_MY C# PROJECT\MyContact\obj\Debug\net6.0\MyContact.AssemblyInfoInputs.cache
+D:\_MY C# PROJECT\MyContact\obj\Debug\net6.0\MyContact.AssemblyInfo.cs
+D:\_MY C# PROJECT\MyContact\obj\Debug\net6.0\MyContact.csproj.CoreCompileInputs.cache
+D:\_MY C# PROJECT\MyContact\obj\Debug\net6.0\MyContact.dll
+D:\_MY C# PROJECT\MyContact\obj\Debug\net6.0\refint\MyContact.dll
+D:\_MY C# PROJECT\MyContact\obj\Debug\net6.0\MyContact.pdb
+D:\_MY C# PROJECT\MyContact\obj\Debug\net6.0\MyContact.genruntimeconfig.cache
+D:\_MY C# PROJECT\MyContact\obj\Debug\net6.0\ref\MyContact.dll
